@@ -1,0 +1,3 @@
+import net.serenitybdd.core.steps.UIInteractions;
+
+public class SearchActions extends UIInteractions {}
